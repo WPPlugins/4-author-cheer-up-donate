@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-03-24 23:02+1000\n"
+"PO-Revision-Date: 2017-05-16 22:35+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: 4-author-cheer-up-donate\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 4-author-cheer-up-donate.php:157
+msgid "May you will treat a tired author a cup of coffee?"
+msgstr "Может угостите уставшего автора чашечкой кофе?"
+
+#: 4-author-cheer-up-donate.php:158
+msgid "<div style=\"text-align: center\">Did you like the material? You can treat the author of a cup of aromatic coffee and leave him a good wish (\"Thanks\").</div><br> Your cup will be delivered to the author. A cup of coffee is not much, but it warms and gives strength to create further. You can choose to treat a author.<br>"
+msgstr "<div style=\"text-align: center\">Вам понравился материал? Вы можете угостить автора чашечкой ароматного кофе и оставить ему доброе пожелание :-)</div><br>Ваше угощение будет обязательно доставлено до автора. Чашка кофе - это не много, но она согревает и придает силы творить дальше. Вы можете выбрать, чем угостить автора.<br>"
+
+#: 4-author-cheer-up-donate.php:159
+msgid "en"
+msgstr "ru"
+
+msgid "Price:"
+msgstr "Цена:"
+
+msgid "Set price for that item"
+msgstr "Установить цену для этого товара"
+
+msgid "Unknown kind man"
+msgstr "Неизвестный добрый человек"
+
+msgid "Set text for unnamed contributor"
+msgstr "Устанавливает текст для безымянного жертвователя"
+
+msgid "Text for unnamed contributor"
+msgstr "Текст для безымянного жертвователя"
+
+msgid "A cup of coffee with PitStop for 50 rubles."
+msgstr "Чашка кофе с ПитСтопа за 50 руб."
+
+#: 4-author-cheer-up-donate.php:160
+msgid "A cup of coffee with a gas station for 100 rubles."
+msgstr "Чашка кофе с заправки 100 руб."
+
+#: 4-author-cheer-up-donate.php:161
+msgid "A cup of coffee with a Cafe for 150 rubles."
+msgstr "Чашка кофе с кафе 150 руб."
+
+#: 4-author-cheer-up-donate.php:187
+msgid "Page \"Thanks\""
+msgstr "Страница спасибо"
+
+#: admin/admin_options.php:13
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: admin/admin_options.php:13
+msgid "Technical Settings Robokassa"
+msgstr "Настройки Робокассы"
+
+#: admin/admin_options.php:13
+msgid "Table \"Thanks\""
+msgstr "Таблица \"Cпасибо\""
+
+#: admin/logo_options.php:56
+msgid "Logo settings"
+msgstr "Настройка лого"
+
+#: admin/logo_options.php:57
+msgid "The logo can be anywhere in the text - using the shortcode [AcuD_donate] or [AcuD_donate float = \"left\"], if you want to place the logo on the left."
+msgstr "Логотип можно вывести в любом месте текста с помощью шорткода [AcuD_donate] или [AcuD_donate float=\"left\"],если нужно расположить лого слева."
+
+#: admin/logo_options.php:62 admin/logo_options.php:119
+#: admin/logo_options.php:120 admin/logo_options.php:121
+msgid "Select the image"
+msgstr "Выбрать изображение"
+
+#: admin/logo_options.php:65
+msgid "How do change the image?"
+msgstr "Как изменить изображение?"
+
+#: admin/logo_options.php:69
+msgid ""
+"How to replace the image: <br>\n"
+"           1. You can easily replace the images with those that you like. Initially, the plugin displays images of coffee, but who prevents you from putting images of beer? :-) <br>\n"
+"           2. All images are stored in your media library. You can save any images to your library and use them. <br>\n"
+"           3. By clicking the \"Select the Image\" button, you will be taken to the Media Library where you can select any image. <br>\n"
+"           4. If you suddenly lost our images in the library, enter \"ACUD\" media files in the search string <br>"
+msgstr ""
+"Как заменить изображение:<br>\n"
+"           1. Вы можете легко заменить изображения на те, что Вам нравятся. Изначально в плагине представлены изображения кофе, но кто мешает Вам поставить изображения пива?:-)<br>\n"
+"           2. Все изображения хранятся в Вашей библиотеке медиафайлов. Вы можете сохранить в Вашу библиотеку любые изображения и использовать их.<br>\n"
+"           3. Нажав кнопку \"Выбрать изображение\" Вы попадете в библиотеку медиафайлов, где можете выбрать любое изображение.<br>\n"
+"           4. Если вдруг Вы потеряли в библиотеке наши изображения, то введите в строку поиска медиафайлов \"ACUD\"<br>"
+
+msgid "<p>1. All the funds pay you, when using this plugin, will be considered a donation.<br>2. Your donation is voluntary.<br>3. All donations are transferred to the author for personal use on the terms of the site.<br>4. No one can demand a donation back.<br>5. If you did not have the right to make a donation - contact the site administration urgently.<br><p>"
+msgstr ""
+"1. Все перечисленные Вами денежные средства, при использовании данного плагина, будут считаться пожертвованием.\n"
+"2. Сделанное Вами пожертвование является добровольным.\n"
+"3. Все пожертвования передаются автору в личное пользование на условиях проекта.\n"
+"4. Никто не может требовать пожертвование обратно.\n"
+"5. Если Вы не имели права делать пожертвование - срочно свяжитесь с администрацией проекта."
+
+msgid "The 4-author-cheer-up-donate is plugin to collect donations for the author in the form of a conditional payment for coffee, beer or other goods."
+msgstr "Плагин \"Кофе для автора\" предназначен для сбора пожертвований, для авторов, путем оплаты условного кофе, пива или иного товара."
+
+msgid "4-author-cheer-up-donate"
+msgstr "4(Для) автора в подарок кофе (пожертвование)"
+
+msgid "Terms of use"
+msgstr "Правила пользования"
+
+#: admin/logo_options.php:83
+msgid "\"Welcome\" text. Please speak to the user, interest him. \"."
+msgstr "Приветственный текст. Обратитесь к пользователю, заинтересуйте его.\"."
+
+#: admin/logo_options.php:83
+msgid "Hover text"
+msgstr "Текст при наведении"
+
+#: admin/logo_options.php:87
+msgid "Set a Logo size as a percentage of the entire page width"
+msgstr "Задает размер лого в процентах от всей ширины страницы"
+
+#: admin/logo_options.php:87
+msgid "Logo size"
+msgstr "Размер лого"
+
+#: admin/logo_options.php:91
+msgid "Show the logo at the beginning of the post of type 'post', the first line."
+msgstr "Располагает лого в начале записи типа 'post', первой строкой."
+
+#: admin/logo_options.php:91
+msgid "Show the logo at the beginning of each post."
+msgstr "Распологать лого в начале каждой записи"
+
+#: admin/logo_options.php:100
+msgid "Show the logo at the end of the post of type 'post', the last line."
+msgstr "Располагает лого в конце записи типа 'post', последней строкой."
+
+#: admin/logo_options.php:100
+msgid "Show the logo at the end of each post."
+msgstr "Распологать лого в конце каждой записи"
+
+#: admin/logo_options.php:110 admin/logo_options.php:175
+#: admin/payment_options.php:66 admin/table_thank.php:162
+msgid "Updated"
+msgstr "Обновлено"
+
+#: admin/logo_options.php:111 admin/logo_options.php:176
+#: admin/payment_options.php:67 admin/table_thank.php:163
+msgid "Update"
+msgstr "Обновить"
+
+#: admin/logo_options.php:114
+msgid "Customize product selection"
+msgstr "Настройка выбора товара"
+
+#: admin/logo_options.php:124 popUp.php:20 thank_you_content.php:64
+msgid "a team by "
+msgstr "Разработан командой "
+
+#: admin/logo_options.php:132
+msgid "We recommend using the \"Terms of Use\", where it will be indicated that this is a donation."
+msgstr "Мы рекомендуем использовать \"Правила пользования\", где будет указано, что это пожертвование."
+
+#: admin/logo_options.php:132
+msgid "Show link to \"Terms of Use\"."
+msgstr "Показывать ссылку на правила пользования"
+
+#: admin/logo_options.php:137 admin/logo_options.php:156
+msgid "If you don't want to use your page, don't change anything - the default page will be used."
+msgstr "Если не хотите использовать свою страницу, то ничего не меняйте - будет использоваться страница по умолчанию."
+
+#: admin/logo_options.php:137
+msgid "Page with \"Terms of Use\"."
+msgstr "Страница с правилами пользования"
+
+#: admin/logo_options.php:151
+msgid "If the checkbox is enabled, the plugin on the page a link to the developer`s website. Otherwise, no."
+msgstr "Если чекбокс активен, то на странице плагина появится ссылка на сайт разработчика. Иначе нет."
+
+#: admin/logo_options.php:151
+msgid "Show link to the plugin the developer`s website. Thank you, if you decide to show :-)"
+msgstr "Отображение ссылки на сайт разработчика плагина. Спасибо, если решили показать :-)"
+
+#: admin/logo_options.php:170
+msgid "If the checkbox is enabled, on the page \"Terms of Use\" show a link to the developer`s website. Otherwise, no. "
+msgstr "Если чекбокс активен, то на страницена странице \"Правила пользования\" появится ссылка на сайт разработчика. Иначе нет."
+
+#: admin/logo_options.php:170
+msgid "Show link to the plugin developer site on the \"Terms of Use\" page."
+msgstr "Показывать ссылку на сайт разработчика на странице \"Правила пользования\""
+
+#: admin/payment_options.php:26
+msgid "https://www.robokassa.ru/en"
+msgstr "https://www.robokassa.ru/"
+
+#: admin/payment_options.php:26
+msgid "Website of Robocassa"
+msgstr "Сайт Робокасса"
+
+#: admin/payment_options.php:27
+msgid "http://docs.robokassa.ru/en/#2483"
+msgstr "http://docs.robokassa.ru/ru/#1160"
+
+#: admin/payment_options.php:27
+msgid "Robokassa - For developers"
+msgstr "Как настроить робокассу"
+
+#: admin/payment_options.php:30
+msgid "\"The Shop Identifier\" can be found in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "\"Идентификатор магазина\" можно найти в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:30
+msgid "The Shop Identifier"
+msgstr "Идентификатор магазина"
+
+#: admin/payment_options.php:34
+msgid "\"Password #1\" can be found in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Пароль #1 можно найти в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:34
+msgid "Password #1"
+msgstr "Пароль #1"
+
+#: admin/payment_options.php:38
+msgid "\"Password #2\" can be found in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Пароль #2 можно найти в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:38
+msgid "Password #2"
+msgstr "Пароль #2"
+
+#: admin/payment_options.php:42
+msgid "You need to copy this link and paste it into the \"Result Url\" field, which is located in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Нужно скопировать эту ссылку и вставить ее в поле \"Result Url\",которое находится в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:46
+msgid "You need to copy this link and paste it into the \"Success Url\" field, which is located in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Нужно скопировать эту ссылку и вставить ее в поле \"Success Url\",которое находится в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:50
+msgid "You need to copy this link and paste it into the \"Fail Url\" field, which is located in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Нужно скопировать эту ссылку и вставить ее в поле \"Fail Url\",которое находится в настройках магазина robokassa во вкладке \"Технические настройки\"."
+
+#: admin/payment_options.php:54
+msgid "\"Test Password #1\" can be found in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Тестовый Пароль #1 можно найти в настройках магазина robokassa во вкладке \"Технические настройки\", он требуется для проведение тестовых платежей."
+
+#: admin/payment_options.php:54
+msgid "Test Password #1"
+msgstr "Тестовый Пароль #1"
+
+#: admin/payment_options.php:58
+msgid "\"Test Password #2\" can be found in the settings of the robokassa store in the \"Technical settings\" tab."
+msgstr "Тестовый Пароль #2 можно найти в настройках магазина robokassa во вкладке \"Технические настройки\", он требуется для проведение тестовых платежей."
+
+#: admin/payment_options.php:58
+msgid "Test Password #2"
+msgstr "Тестовый Пароль #2"
+
+#: admin/payment_options.php:62
+msgid "Enable, if you want to testing the shop payment initiation interfacemake, for real payments this item should be turned off."
+msgstr "Включите, если вы хотите провести тестовые платежи для проверки роботоспособности плагина, для проведения реальных платежей этот пункт должен быть выключен."
+
+#: admin/payment_options.php:62
+msgid "Use test passwords?"
+msgstr "Использовать тестовые пароли?"
+
+#: admin/table_thank.php:41
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/table_thank.php:42
+msgid "All available fields."
+msgstr "Все доступные поля"
+
+#: admin/table_thank.php:54
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/table_thank.php:70 thank_you_content.php:27
+msgid "Name"
+msgstr "Имя"
+
+#: admin/table_thank.php:71 thank_you_content.php:27
+msgid "Thanks"
+msgstr "Пожелание"
+
+#: admin/table_thank.php:72 thank_you_content.php:27
+msgid "Donation amount"
+msgstr "Сумма пожертвования"
+
+#: admin/table_thank.php:73
+msgid "Is the payment successful?"
+msgstr "Успешен ли платеж"
+
+#: admin/table_thank.php:74
+msgid "Donate page"
+msgstr "Страница пожертвования"
+
+#: admin/table_thank.php:99 admin/table_thank.php:114
+msgid "Yes"
+msgstr "Да"
+
+#: admin/table_thank.php:101 admin/table_thank.php:116
+msgid "No"
+msgstr "Нет"
+
+#: admin/table_thank.php:131
+msgid "delete"
+msgstr "Удалить"
+
+#: admin/table_thank.php:155
+msgid "If the checkbox is enabled, on the page \"Thanks\" show a link to the developer`s website. Otherwise, no. "
+msgstr "Если чекбокс активен, то на странице \"Спасибо\" появится ссылка на сайт разработчика. Иначе нет."
+
+#: admin/table_thank.php:155
+msgid "Show link to developer's website on the \"Thanks\" page."
+msgstr "Показывать ссылку на сайт разработчика на странице \"Спасибо\""
+
+#: popUp.php:24
+msgid "Do you want to leave a wish for the author?"
+msgstr "Хотите оставить пожелание для автора?"
+
+#: popUp.php:28
+msgid "Leave a wish"
+msgstr "Оставить пожелание"
+
+#: popUp.php:29
+msgid "Skip"
+msgstr "Пропустить"
+
+#: thank_you_content.php:51
+msgid "Back"
+msgstr "Назад"
+
+#: thank_you_content.php:52
+msgid "Next"
+msgstr "Следующая »"
+
+#: thank_you_content.php:52
+msgid "<p>Thanks!</p>"
+msgstr "<p>Спасибо за угощение!</p>"
